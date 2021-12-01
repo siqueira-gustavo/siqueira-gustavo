@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Gustavo Siqueira, a.k.a Guga. I'm here to share some code to the world!
+I'm Gustavo Siqueira, a.k.a Guga. I'm here to share code with the world!
 
 - 🌱 I’m currently learning front-end Web Development.
 - 📫 How to reach me: guss.ns@gmail.com
