@@ -2,8 +2,8 @@
 
 I'm Gustavo Siqueira, a.k.a Guga. I'm here to share code with the world!
 
-- 🌱 I’m currently learning front-end 🌎 Web Development: HTML | CSS | JavaScript | React | React Native.
-- 🦾 I’m currently learning back-end : ☕ Java | 🐍 Python | 🟪 C#.
+- 🌱 I’m currently learning front-end 🌎 Web Development: HTML | CSS | JavaScript | TypeScript | React | React Native.
+- 🦾 I’m currently learning back-end : ☕ Java | TypeScript | 🐍 Python | 🟪 C#.
 - 📫 How to reach me: guss.ns@gmail.com
 
 <div align="center">
