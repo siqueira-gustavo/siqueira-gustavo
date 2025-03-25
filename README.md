@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm Gustavo Siqueira, a.k.a Guga. I'm here to share code with the world!
 
@@ -6,7 +6,7 @@ I'm a passionate software developer with a strong interest in web development, o
 
 I enjoy working on both front-end and back-end development, and I am always eager to learn new technologies and improve my skills. I believe in the power of open source to build a collaborative and innovative community.
 
-### Key Projects
+## Key Projects
 
 - **Management Platform:** Developed a full-stack management platform using NextJS and MongoDB along with other tools. Implemented features such as user authentication, product management, and order processing.
 
