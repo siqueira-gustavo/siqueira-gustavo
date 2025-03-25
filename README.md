@@ -2,9 +2,30 @@
 
 I'm Gustavo Siqueira, a.k.a Guga. I'm here to share code with the world!
 
-- 🌱 I’m currently learning front-end 🌎 Web Development: HTML | CSS | JavaScript | TypeScript | React | React Native.
-- 🦾 I’m currently learning back-end : ☕ Java | TypeScript | 🐍 Python | 🟪 C#.
-- 📫 How to reach me: guss.ns@gmail.com
+I'm a passionate software developer with a strong interest in web development, open source, and continuous learning. My journey in software development began with a fascination for how things work behind the scenes, and it has evolved into a career where I get to solve complex problems and create efficient, scalable solutions.
+
+I enjoy working on both front-end and back-end development, and I am always eager to learn new technologies and improve my skills. I believe in the power of open source to build a collaborative and innovative community.
+
+### Key Projects
+
+- **Management Platform:** Developed a full-stack management platform using NextJS and MongoDB along with other tools. Implemented features such as user authentication, product management, and order processing.
+
+## Skills
+
+- **Languages:** TypeScript, JavaScript, Java, Python
+- **Frameworks/Libraries:** React, Next.js, Node.js, Express
+- **Tools:** Git, Docker, Kubernetes, Jenkins
+- **Databases:** MongoDB, MySQL, PostgreSQL
+
+## Contact
+
+Feel free to reach out to me:
+
+- **Email:** [guss.ns@gmail.com](mailto:guss.ns@gmail.com)
+- **LinkedIn:** [linkedin.com/in/gustavo-siqueira-759465181/](https://linkedin.com/in/gustavo-siqueira-759465181/)
+- **GitHub:** [github.com/siqueira-gustavo](https://github.com/siqueira-gustavo)
+
+Thank you for visiting my profile!
 
 <div align="center">
   <a href="https://github.com/siqueira-gustavo">
